@@ -34,7 +34,7 @@ namespace regressionAutomation
 
             System.Threading.Thread.Sleep(6000);
 
-            Console.WriteLine("Test Passed");
+            Console.WriteLine("Test pass");
         }
 
         [TearDown]
